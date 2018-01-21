@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Шифр Виженера</string>
+    <string name="clear_all">Очистить все</string>
+    <string name="default_key">Стандартный ключ</string>
+    <string name="default_latin_text">Стандартный текст (латиница)</string>
+    <string name="default_cyrillic_key">Стандартный текст (кирилица)</string>
+    <string name="default_mixed_text">Стандартный текст (микс)</string>
+    <string name="encrypt">Зашифровать</string>
+    <string name="decrypt">Расшифровать</string>
+    <string name="enter_key_word_or_phrase">Введите ключ</string>
+    <string name="keyword">Ключ</string>
+    <string name="normal_text">Обычный текст</string>
+    <string name="encrypted_text">Зашифрованный текст</string>
+    <string name="wrong_keyword">Неправильный ключ!</string>
+</resources>

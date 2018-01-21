@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vigenere Cipher</string>
+    <string name="clear_all">Clear all</string>
+    <string name="default_key">Default Key</string>
+    <string name="default_latin_text">Default Latin Text</string>
+    <string name="default_cyrillic_key">Default Cyrillic Key</string>
+    <string name="default_mixed_text">Default mixed text</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="enter_key_word_or_phrase">Enter key word or phrase</string>
+    <string name="keyword">Keyword</string>
+    <string name="normal_text">Normal text</string>
+    <string name="encrypted_text">Encrypted text</string>
+    <string name="wrong_keyword">Wrong Keyword!</string>
+</resources>
